@@ -1,0 +1,15 @@
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\bin\Debug\net6.0\RestConsume.exe
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\bin\Debug\net6.0\RestConsume.deps.json
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\bin\Debug\net6.0\RestConsume.runtimeconfig.json
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\bin\Debug\net6.0\RestConsume.dll
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\bin\Debug\net6.0\RestConsume.pdb
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.csproj.AssemblyReference.cache
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.AssemblyInfoInputs.cache
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.AssemblyInfo.cs
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.csproj.CoreCompileInputs.cache
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.dll
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\refint\RestConsume.dll
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.pdb
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\RestConsume.genruntimeconfig.cache
+C:\Users\BStorm\RiderProjects\RestConsume\RestConsume\obj\Debug\net6.0\ref\RestConsume.dll
